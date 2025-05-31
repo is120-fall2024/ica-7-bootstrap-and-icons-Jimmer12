@@ -1,0 +1,10 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.form-section {
+  padding: 2rem;
+  background-color: #fff;
+  border-radius: 10px;
+}
